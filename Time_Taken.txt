@@ -1,0 +1,15 @@
+ECB MODE
+Encryption - 655360 ns
+Decryption - 655360 ns
+
+CBC MODE
+Encryption - 655360 ns
+Decryption - 655360 ns
+
+CFB MODE
+Encryption - 5242880 ns
+Decryption - 5242880 ns
+
+OFB MODE
+Encryption - 5242880 ns
+Decryption - 5242880 ns
